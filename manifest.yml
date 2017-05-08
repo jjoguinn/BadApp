@@ -1,0 +1,8 @@
+---
+applications:
+- name: BadApp
+  instances: 1
+  env:
+    JAVA_OPTS: "-Dspring.cloud.config.profile=local"
+  path:
+    build/libs/BadApp-0.0.1.jar
