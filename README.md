@@ -1,2 +1,2 @@
 # BadApp
-App to test OOM and stuck threads
+App to test OOM and stuck threads... Stuff
